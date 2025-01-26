@@ -6,7 +6,7 @@ from io import StringIO
 teams_file = open("teams.txt", 'r')
 teams = teams_file.read().split('\n')
 
-for year in range(2010,2025):
+for year in range(2009,2010):
 
     for team in teams:
         

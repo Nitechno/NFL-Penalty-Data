@@ -10,7 +10,7 @@ teams = teams_file.read().split('\n')
 team_namea_file = open('teams.txt', 'r')
 team_names = team_namea_file.read().split('\n')
 
-for year in range(2010,2025):
+for year in range(2024,2025):
 
     i = 0
 

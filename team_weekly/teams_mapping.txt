@@ -1,0 +1,35 @@
+Arizona: arizona-cardinals
+Atlanta: atlanta-falcons
+Baltimore: baltimore-ravens
+Buffalo: buffalo-bills
+Carolina: carolina-panthers
+Chicago: chicago-bears
+Cincinnati: cincinnati-bengals
+Cleveland: cleveland-browns
+Dallas: dallas-cowboys
+Denver: denver-broncos
+Detroit: detroit-lions
+Green Bay: green-bay-packers
+Houston: houston-texans
+Indianapolis: indianapolis-colts
+Jacksonville: jacksonville-jaguars
+Kansas City: kansas-city-chiefs
+Las Vegas: las-vegas-raiders
+Oakland: las-vegas-raiders
+Miami: miami-dolphins
+Minnesota: minnesota-vikings
+New England: new-england-patriots
+New Orleans: new-orleans-saints
+N.Y. Giants: new-york-giants
+N.Y. Jets: new-york-jets
+Philadelphia: philadelphia-eagles
+Pittsburgh: pittsburgh-steelers
+San Francisco: san-francisco-49ers
+Seattle: seattle-seahawks
+Tampa Bay: tampa-bay-buccaneers
+Tennessee: tennessee-titans
+Washington: washington-commanders
+LA Rams: los-angeles-rams
+St. Louis: los-angeles-rams
+LA Chargers: los-angeles-chargers
+San Diego: los-angeles-chargers
